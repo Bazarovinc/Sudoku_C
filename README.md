@@ -13,5 +13,5 @@ Algorithm of filling sudoku on C
 ## Result
 file
 ## Errors
-* If give sudoku with errors
+* If you give sudoku with errors
 * Or sudoku didn't have decision.
