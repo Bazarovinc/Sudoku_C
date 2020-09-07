@@ -11,7 +11,7 @@ Algorithm of filling sudoku on C
 >./sudoku "...36.857" "....8...6" "86...1..9" ".578..64." "9.1.3.5.8" ".86..793." "6..1...85" "5...2...." "128.53..."
 ```
 ## Result
-file
+<img align="center" src="https://github.com/Bazarovinc/Sudoku_C/blob/master/imagies/result.png" width="20%" heihg="20%"/>
 ## Errors
 * If you give sudoku with errors
 * Or sudoku didn't have decision.
